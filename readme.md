@@ -1,34 +1,6 @@
-# JavaScript Introduction
+# IS 117 - Intro to Website Development (Spring 2021)
 
-Readings / Practice
+## Introduction to JavaScript
 
-1.  https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction
-2.  https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction
+[Website hosted on github](https://kevnramos.github.io/JavaScript-Intro/)
 
-# Install Instructions from previous lesson
-Prerequisites:
-Install Node:
-https://nodejs.org/en/download/
-
-
-Install Webpack Globally by running this command on your terminal / command prompt
-
-npm install --global webpack
-
-Webpack Documentation: https://webpack.js.org/
-
-To Use:
-
-1.  Clone the Repo
-2.  Run npm install
-3.  Run webpack serve to live reload your project, so you can see changes without refreshing the browser
-4.  Once it's running you can go to the dev server and see your changes: http://localhost:9000/
-5.  **run "webpack build" to bundle your code and put it in the docs folder so github pages can serve it**
-
-Press Control C to stop the server or the builder
-
-Turn on github pages and put a link to your site in the readme when you turn in the github repo link.
-
-Working site here:
-
-http://www.webizly.com/BasicWebPack/
